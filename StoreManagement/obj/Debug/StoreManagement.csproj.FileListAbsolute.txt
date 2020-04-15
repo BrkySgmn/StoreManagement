@@ -1,0 +1,15 @@
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\StoreManagement\StoreManagement\bin\Debug\StoreManagement.exe.config
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\StoreManagement\StoreManagement\bin\Debug\StoreManagement.exe
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\StoreManagement\StoreManagement\bin\Debug\StoreManagement.pdb
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\StoreManagement\StoreManagement\bin\Debug\EntityFramework.dll
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\StoreManagement\StoreManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\StoreManagement\StoreManagement\bin\Debug\EntityFramework.xml
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\StoreManagement\StoreManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\StoreManagement\StoreManagement\obj\Debug\StoreManagement.csprojAssemblyReference.cache
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Form1.resources
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Form2.resources
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Properties.Resources.resources
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\StoreManagement\StoreManagement\obj\Debug\StoreManagement.csproj.GenerateResource.cache
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\StoreManagement\StoreManagement\obj\Debug\StoreManagement.csproj.CopyComplete
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\StoreManagement\StoreManagement\obj\Debug\StoreManagement.exe
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\StoreManagement\StoreManagement\obj\Debug\StoreManagement.pdb

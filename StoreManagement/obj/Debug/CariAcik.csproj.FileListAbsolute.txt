@@ -1,0 +1,73 @@
+C:\Users\Berkay 1\source\repos\CariAcik\CariAcik\bin\Debug\CariAcik.exe.config
+C:\Users\Berkay 1\source\repos\CariAcik\CariAcik\bin\Debug\CariAcik.exe
+C:\Users\Berkay 1\source\repos\CariAcik\CariAcik\bin\Debug\CariAcik.pdb
+C:\Users\Berkay 1\source\repos\CariAcik\CariAcik\obj\Debug\CariAcik.csprojAssemblyReference.cache
+C:\Users\Berkay 1\source\repos\CariAcik\CariAcik\obj\Debug\CariAcik.Form1.resources
+C:\Users\Berkay 1\source\repos\CariAcik\CariAcik\obj\Debug\CariAcik.Properties.Resources.resources
+C:\Users\Berkay 1\source\repos\CariAcik\CariAcik\obj\Debug\CariAcik.csproj.GenerateResource.cache
+C:\Users\Berkay 1\source\repos\CariAcik\CariAcik\obj\Debug\CariAcik.csproj.CoreCompileInputs.cache
+C:\Users\Berkay 1\source\repos\CariAcik\CariAcik\obj\Debug\CariAcik.exe
+C:\Users\Berkay 1\source\repos\CariAcik\CariAcik\obj\Debug\CariAcik.pdb
+C:\Users\Berkay 1\source\repos\CariAcik\CariAcik\obj\Debug\CariAcik.Form2.resources
+C:\Users\Wissen\Desktop\CariAcik\CariAcik\bin\Debug\CariAcik.exe.config
+C:\Users\Wissen\Desktop\CariAcik\CariAcik\bin\Debug\CariAcik.exe
+C:\Users\Wissen\Desktop\CariAcik\CariAcik\bin\Debug\CariAcik.pdb
+C:\Users\Wissen\Desktop\CariAcik\CariAcik\obj\Debug\CariAcik.csprojAssemblyReference.cache
+C:\Users\Wissen\Desktop\CariAcik\CariAcik\obj\Debug\CariAcik.Form1.resources
+C:\Users\Wissen\Desktop\CariAcik\CariAcik\obj\Debug\CariAcik.Form2.resources
+C:\Users\Wissen\Desktop\CariAcik\CariAcik\obj\Debug\CariAcik.Properties.Resources.resources
+C:\Users\Wissen\Desktop\CariAcik\CariAcik\obj\Debug\CariAcik.csproj.GenerateResource.cache
+C:\Users\Wissen\Desktop\CariAcik\CariAcik\obj\Debug\CariAcik.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\CariAcik\CariAcik\obj\Debug\CariAcik.exe
+C:\Users\Wissen\Desktop\CariAcik\CariAcik\obj\Debug\CariAcik.pdb
+C:\Users\Wissen\Desktop\CariAcik\CariAcik\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\Desktop\CariAcik\CariAcik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\CariAcik\CariAcik\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\Desktop\CariAcik\CariAcik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\CariAcik\CariAcik\obj\Debug\CariAcik.csproj.CopyComplete
+C:\Users\Berkay 1\Desktop\CariAcik\CariAcik\bin\Debug\CariAcik.exe.config
+C:\Users\Berkay 1\Desktop\CariAcik\CariAcik\bin\Debug\CariAcik.exe
+C:\Users\Berkay 1\Desktop\CariAcik\CariAcik\bin\Debug\CariAcik.pdb
+C:\Users\Berkay 1\Desktop\CariAcik\CariAcik\bin\Debug\EntityFramework.dll
+C:\Users\Berkay 1\Desktop\CariAcik\CariAcik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berkay 1\Desktop\CariAcik\CariAcik\bin\Debug\EntityFramework.xml
+C:\Users\Berkay 1\Desktop\CariAcik\CariAcik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Berkay 1\Desktop\CariAcik\CariAcik\obj\Debug\CariAcik.csprojAssemblyReference.cache
+C:\Users\Berkay 1\Desktop\CariAcik\CariAcik\obj\Debug\CariAcik.Form1.resources
+C:\Users\Berkay 1\Desktop\CariAcik\CariAcik\obj\Debug\CariAcik.Form2.resources
+C:\Users\Berkay 1\Desktop\CariAcik\CariAcik\obj\Debug\CariAcik.Properties.Resources.resources
+C:\Users\Berkay 1\Desktop\CariAcik\CariAcik\obj\Debug\CariAcik.csproj.GenerateResource.cache
+C:\Users\Berkay 1\Desktop\CariAcik\CariAcik\obj\Debug\CariAcik.csproj.CoreCompileInputs.cache
+C:\Users\Berkay 1\Desktop\CariAcik\CariAcik\obj\Debug\CariAcik.csproj.CopyComplete
+C:\Users\Berkay 1\Desktop\CariAcik\CariAcik\obj\Debug\CariAcik.exe
+C:\Users\Berkay 1\Desktop\CariAcik\CariAcik\obj\Debug\CariAcik.pdb
+C:\Users\Berkay 1\Desktop\C ve Unity\C#\Projeler\CariAcik\CariAcik\bin\Debug\CariAcik.exe.config
+C:\Users\Berkay 1\Desktop\C ve Unity\C#\Projeler\CariAcik\CariAcik\bin\Debug\CariAcik.exe
+C:\Users\Berkay 1\Desktop\C ve Unity\C#\Projeler\CariAcik\CariAcik\bin\Debug\CariAcik.pdb
+C:\Users\Berkay 1\Desktop\C ve Unity\C#\Projeler\CariAcik\CariAcik\bin\Debug\EntityFramework.dll
+C:\Users\Berkay 1\Desktop\C ve Unity\C#\Projeler\CariAcik\CariAcik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berkay 1\Desktop\C ve Unity\C#\Projeler\CariAcik\CariAcik\bin\Debug\EntityFramework.xml
+C:\Users\Berkay 1\Desktop\C ve Unity\C#\Projeler\CariAcik\CariAcik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Berkay 1\Desktop\C ve Unity\C#\Projeler\CariAcik\CariAcik\obj\Debug\CariAcik.csprojAssemblyReference.cache
+C:\Users\Berkay 1\Desktop\C ve Unity\C#\Projeler\CariAcik\CariAcik\obj\Debug\CariAcik.Form1.resources
+C:\Users\Berkay 1\Desktop\C ve Unity\C#\Projeler\CariAcik\CariAcik\obj\Debug\CariAcik.Form2.resources
+C:\Users\Berkay 1\Desktop\C ve Unity\C#\Projeler\CariAcik\CariAcik\obj\Debug\CariAcik.Properties.Resources.resources
+C:\Users\Berkay 1\Desktop\C ve Unity\C#\Projeler\CariAcik\CariAcik\obj\Debug\CariAcik.csproj.GenerateResource.cache
+C:\Users\Berkay 1\Desktop\C ve Unity\C#\Projeler\CariAcik\CariAcik\obj\Debug\CariAcik.csproj.CopyComplete
+C:\Users\Berkay 1\Desktop\C ve Unity\C#\Projeler\CariAcik\CariAcik\obj\Debug\CariAcik.exe
+C:\Users\Berkay 1\Desktop\C ve Unity\C#\Projeler\CariAcik\CariAcik\obj\Debug\CariAcik.pdb
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\CariAcik\CariAcik\bin\Debug\CariAcik.exe.config
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\CariAcik\CariAcik\bin\Debug\CariAcik.exe
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\CariAcik\CariAcik\bin\Debug\CariAcik.pdb
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\CariAcik\CariAcik\bin\Debug\EntityFramework.dll
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\CariAcik\CariAcik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\CariAcik\CariAcik\bin\Debug\EntityFramework.xml
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\CariAcik\CariAcik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\CariAcik\CariAcik\obj\Debug\CariAcik.csprojAssemblyReference.cache
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\CariAcik\CariAcik\obj\Debug\CariAcik.Form1.resources
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\CariAcik\CariAcik\obj\Debug\CariAcik.Form2.resources
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\CariAcik\CariAcik\obj\Debug\CariAcik.Properties.Resources.resources
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\CariAcik\CariAcik\obj\Debug\CariAcik.csproj.GenerateResource.cache
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\CariAcik\CariAcik\obj\Debug\CariAcik.csproj.CopyComplete
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\CariAcik\CariAcik\obj\Debug\CariAcik.exe
+C:\Users\Berkay 1\Desktop\Software\C#\Projeler\CariAcik\CariAcik\obj\Debug\CariAcik.pdb
